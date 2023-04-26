@@ -1,5 +1,5 @@
 <h1>Barbershop</h1>
-<small><sup>This is the webpage of a barbershop based on HTML and CSS, where it includes location using Google Maps, videos, and a form where reservations can be made for it.</sup></small><br>
+This is the webpage of a barbershop based on HTML and CSS, where it includes location using Google Maps, videos, and a form where reservations can be made for it.<br>
 
 ![Capture](https://user-images.githubusercontent.com/88990949/234706082-5d7ebe50-ae3a-43c4-997a-8b07ad6244c9.JPG)
 
